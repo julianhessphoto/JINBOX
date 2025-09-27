@@ -1,3 +1,4 @@
+
 # Media
 
 This folder stores all visual and creative work.
@@ -11,3 +12,6 @@ Structure:
   - JINBOX
   - Julian Hess Art
   - Marketing
+
+## Current Assets
+![JINBOX Logo](./JinboxLogo.webp)
