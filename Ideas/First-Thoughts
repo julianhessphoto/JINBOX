@@ -1,0 +1,38 @@
+# First Thoughts – JINBOX
+
+This file kicks off the JINBOX creative sandbox.  
+It’s a space for raw ideas, early sketches, and quick notes. Nothing needs to be perfect here — it’s about tracking progress.
+
+---
+
+## Project Seeds
+
+### 📸 JINBOX Photography
+- Package concepts:
+  - **Polaroid Box** → instant vibe, quick shoots, casual
+  - **Film Box** → styled sets, props, magazine feel
+  - **Roll Box** → film-inspired, cinematic edits
+  - **Jin Box** → nightlife / event packages, bold energy
+
+### 🎶 ChalkMusicSA
+- Curator-led platform for SA music
+- Music video showcase like a virtual classroom oral
+- Street style + sound → combined identity
+- Potential merch tie-ins later
+
+### 👜 RaKho Brand
+- Tote bag line: ancestral + modern prints
+- First drop: “Echo//001”
+- Event idea: tote bags displayed as hanging photo pieces
+
+### 🧾 GlyphCheck
+- SaaS tool for document validation
+- OCR + AI checks for shipping/logistics
+- ControlTower dashboard for outputs
+
+---
+
+## Next Steps
+- Keep adding raw notes here before they scatter across apps
+- Create `/assets` folder for visuals
+- Drop any JSON / automation tests into `/automation`
