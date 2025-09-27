@@ -4,7 +4,6 @@ These 3 actions keep JINBOX moving forward, even without a shoot.
 
 ## 1. Show Your Work
 Post or update 1 photo:
-- [ ] GitHub (core/media)
 - [ ] Instagram (@julianhessphoto)
 - [ ] Pinterest (za.pinterest.com/julianhessphoto)
 - [ ] Tumblr (tumblr.com)
